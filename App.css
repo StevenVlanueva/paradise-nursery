@@ -1,0 +1,10 @@
+.about-us-container {
+    background-color: #f0fdf4;
+    padding: 40px;
+    border-radius: 15px;
+    margin-top: 50px;
+}
+.about-us-title {
+    color: #1a4731;
+    font-size: 2.5rem;
+}

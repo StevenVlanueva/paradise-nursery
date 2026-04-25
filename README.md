@@ -1,2 +1,2 @@
-# paradise-nursery
-Proyecto final de mi curso de React
+# Paradise Nursery
+Proyecto final de React - Tienda de plantas.
